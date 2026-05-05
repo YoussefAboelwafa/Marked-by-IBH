@@ -11,8 +11,8 @@ embedding information into images in a way that is invisible, yet survives real-
 It provides a standardized and reproducible framework to evaluate watermarking methods under realistic conditions—ranging from compression and editing to AI-based manipulations.
 
 At its core, the benchmark pushes toward methods that balance:
-- **Imperceptibility** - the watermark should not degrade visual quality  
-- **Robustness** — the watermark should remain recoverable after attacks  
+- **Imperceptibility** --> the watermark should not degrade visual quality  
+- **Robustness** --> the watermark should remain recoverable after attacks  
 
 **Marked by IBH** is a robust DWT-based watermarking system against attacks and manipulations extending InvisMark.
 
